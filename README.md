@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Rasel, an Android engineer in Kinto Technologies
+- 👋 Hi, I’m Rasel, an Android engineer at KINTO Technologies Corporation, Tokyo, Japan
 - 👀 I’m interested in Android Development
-- 🌱 I’m currently learning Jetpack Compose and Kotlin Multiplatform Mobile (KMM)
+- 🌱 I’m currently learning Jetpack Compose and Kotlin Multiplatform Mobile (KMP)
